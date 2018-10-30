@@ -1,0 +1,5 @@
+Instaliranje gym[atari]
+komanda:
+pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
+link:
+https://stackoverflow.com/questions/42605769/openai-gym-atari-on-windows
